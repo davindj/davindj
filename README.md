@@ -10,7 +10,7 @@
 - 🎨 **UI/UX Design for Web & Mobile**. _front end development without proper design knowledge is inproper, fight me_
 - 👓 **VR Development**. _currently working with oculus quest 2, if you have tips or suggestions please contact me :)_
 - 🐧 **Linux**. _currently migrating to fedora_
-- 🖖 **VIM**. _still learning and migrating from vscode before moving on to neovim_
+- 🖖 **VIM**. _NVIM!! doesn't know what that is? fyl 🙂._
 
 ## 🚀 Other Interests / Hobbies
 - ♟ **play chess** _usually 1min bullet in [chess.com](https://chess.com). my elo is ~1000_
