@@ -1,6 +1,5 @@
 ![](./src-readme/Linkedin%20Banner%20Davin%20Djayadi.png)
 ## 🎯 Current Goals
-- 🔭 I’m currently **looking for a full-time iOS Developer job**
 - 💻 I'm currently **open for mobile & web development freelance**  
 
 ## 💖 Interests
